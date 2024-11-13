@@ -1,0 +1,21 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·«½
+P"squid:SwitchLastCaseIsDefaultCheckq""Add a default case to this switch.(ºÖ
+?squid:S1659$"(Declare "btnCashOut" on a separate line.(Áâ“ª
+Esquid:S1659$".Declare "btnOtherServices" on a separate line.(Áâ“ª
+nsquid:S1301]"KReplace this "switch" statement by "if" statements to increase readability.(äÿœ”úÿÿÿÿ8ùİğŠí-
+?squid:S1659$"(Declare "btnPayment" on a separate line.(Áâ“ª
+wsquid:S1450*"YRemove the "NotifyData" field and declare it as a local variable in the relevant methods.(öû¡¸8ÉÉĞ‡í-
+squid:S1450)"eRemove the "callbackBalanceInquiry" field and declare it as a local variable in the relevant methods.(‘ĞÇşÿÿÿÿ
+dsquid:S00101n"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡ø
+wsquid:UnusedPrivateMethod¶"ERemove this unused private "CheckUsernameUnSuccessfulHandler" method.(ïï€­ûÿÿÿÿ8çİíŠí-
+\"squid:SwitchLastCaseIsDefaultCheck]""Add a default case to this switch.(äÿœ”úÿÿÿÿ8ùİğŠí-
+Lsquid:S1068*".Remove this unused "NotifyData" private field.(öû¡¸8ÉÉĞ‡í-
+tsquid:S00116*"URename this field "NotifyData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öû¡¸8Ñïıã-
+nsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(Öş­Óùÿÿÿÿ8ÉÉĞ‡í-
+=squid:S1659$"&Declare "btnTopUp" on a separate line.(Áâ“ª
+lsquid:S00116#"TRename this field "tv_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„®ıå
+squid:S00116%"[Rename this field "tv_actualBalance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨½ö‘ùÿÿÿÿ8æ„Ñ‡ã-
+ssquid:S00100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïï€­ûÿÿÿÿ8çİíŠí-
+]"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(†ùÊ™üÿÿÿÿ8¼£ˆã-
+Asquid:S1148i"#Use a logger to log this exception.(Ç’Çê8ùİğŠí-

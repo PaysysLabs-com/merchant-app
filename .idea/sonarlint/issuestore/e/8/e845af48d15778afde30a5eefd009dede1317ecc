@@ -1,0 +1,32 @@
+
+Nsquid:S1444"2Make this "public static READ_TIMEOUT" field final(éûœÄşÿÿÿÿ
+Lsquid:S1444"5Make this "public static CONNECT_TIMEOUT" field final(üêà
+Esquid:S1444".Make this "public static str_IMEI" field final(Í¿¿
+Jsquid:S1444
+".Make this "public static BASE_URL" field final(æÅÄ¡úÿÿÿÿ
+Osquid:S1444"3Make this "public static deviceDetails" field final(ãşÛüÿÿÿÿ
+Msquid:S1444"1Make this "public static deviceToken" field final(’Œ·¹úÿÿÿÿ
+Lsquid:S1444"5Make this "public static deviceOSVersion" field final(µ¤İº
+Ksquid:S1444"/Make this "public static benefName" field final(Œôÿıÿÿÿÿ
+Fsquid:S1444"/Make this "public static ACTIVITY2" field final(¢¯öò
+Ksquid:S1444"4Make this "public static deviceLanguage" field final(ùšï·
+‹"squid:ClassVariableVisibilityCheck"XMake READ_TIMEOUT a static final constant or non-public and provide accessors if needed.(éûœÄşÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"[Make CONNECT_TIMEOUT a static final constant or non-public and provide accessors if needed.(üêà
+‚"squid:ClassVariableVisibilityCheck"TMake str_IMEI a static final constant or non-public and provide accessors if needed.(Í¿¿
+‡"squid:ClassVariableVisibilityCheck
+"TMake BASE_URL a static final constant or non-public and provide accessors if needed.(æÅÄ¡úÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheck"YMake deviceDetails a static final constant or non-public and provide accessors if needed.(ãşÛüÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"WMake deviceToken a static final constant or non-public and provide accessors if needed.(’Œ·¹úÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"[Make deviceOSVersion a static final constant or non-public and provide accessors if needed.(µ¤İº
+ˆ"squid:ClassVariableVisibilityCheck"UMake benefName a static final constant or non-public and provide accessors if needed.(Œôÿıÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"UMake ACTIVITY2 a static final constant or non-public and provide accessors if needed.(¢¯öò
+ˆ"squid:ClassVariableVisibilityCheck"ZMake deviceLanguage a static final constant or non-public and provide accessors if needed.(ùšï·
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†äè¡ÿÿÿÿÿ
+ssquid:S3008"WRename this field "READ_TIMEOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éûœÄşÿÿÿÿ
+qsquid:S3008"ZRename this field "CONNECT_TIMEOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üêà
+jsquid:S3008"SRename this field "str_IMEI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¿¿
+osquid:S3008
+"SRename this field "BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÅÄ¡úÿÿÿÿ
+ksquid:S3008"TRename this field "ACTIVITY2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¯öò
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(“³±ûÿÿÿÿ
+bsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(¡ïçò

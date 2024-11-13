@@ -1,0 +1,35 @@
+
+Gsquid:S00108Ó")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ
+xsquid:S00116@"[Rename this field "toolbar_username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß–ÑÉûÿÿÿÿ
+@squid:S1148‹"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck˜""Add a default case to this switch.(äÿœ”úÿÿÿÿ
+jsquid:MaximumInheritanceDepth9"<This class has 6 parents which is greater than 5 authorized.(³ÝÚŸÿÿÿÿÿ
+nsquid:S1450G"WRemove the "myLocale" field and declare it as a local variable in the relevant methods.(þ®Õö
+ksquid:S00116C"SRename this field "FcmToken" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È­óå
+jsquid:S3027¹"FPut single-quotes around '{' to use the faster "indexOf(char)" method.(Þ˜´íûÿÿÿÿ8ªòÄÑí-
+Jsquid:S1659@".Declare "toolbar_username" on a separate line.(ß–ÑÉûÿÿÿÿ
+gsquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(€–´üÿÿÿÿ
+csquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(œ¢ù
+Q"squid:SwitchLastCaseIsDefaultCheckà""Add a default case to this switch.(ŽºÖ
+gsquid:CommentedOutCodeLinel"<This block of commented-out lines of code should be removed.(À™ŠÑüÿÿÿÿ
+Nsquid:S1659@"2Declare "drawer_accountNumber" on a separate line.(ß–ÑÉûÿÿÿÿ
+"squid:ClassVariableVisibilityCheck@"\Make toolbar_username a static final constant or non-public and provide accessors if needed.(ß–ÑÉûÿÿÿÿ
+csquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(§‡ìá
+hsquid:S1301˜"KReplace this "switch" statement by "if" statements to increase readability.(äÿœ”úÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ëö§ã
+|squid:S00116@"_Rename this field "drawer_accountNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß–ÑÉûÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheckÂ""Add a default case to this switch.(ŽºÖ
+„"squid:ClassVariableVisibilityCheck="QMake mAuth a static final constant or non-public and provide accessors if needed.(ä××þÿÿÿÿ
+wsquid:S00116@"ZRename this field "drawer_userName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß–ÑÉûÿÿÿÿ
+Ž"squid:ClassVariableVisibilityCheck@"[Make drawer_userName a static final constant or non-public and provide accessors if needed.(ß–ÑÉûÿÿÿÿ
+€"squid:ClassVariableVisibilityCheckE"RMake QRPram a static final constant or non-public and provide accessors if needed.(†úî
+hsquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(Ýøééÿÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheckD"WMake inquiryPram a static final constant or non-public and provide accessors if needed.(˜þÎûÿÿÿÿ
+gsquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(Á°îÚùÿÿÿÿ
+gsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(¯µÜþÿÿÿÿ
+isquid:S00116E"QRename this field "QRPram" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†úî
+‚"squid:ClassVariableVisibilityCheckC"TMake FcmToken a static final constant or non-public and provide accessors if needed.(È­óå
+esquid:S00101¾"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ž¡ø
+fsquid:S1192‘"IDefine a constant instead of duplicating this literal "Language" 3 times.(Ãž¡½øÿÿÿÿ
+“"squid:ClassVariableVisibilityCheck@"`Make drawer_accountNumber a static final constant or non-public and provide accessors if needed.(ß–ÑÉûÿÿÿÿ
+Lsquid:S1068I"5Remove this unused "sharedPreferences" private field.(„ºÌ¬

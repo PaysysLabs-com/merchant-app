@@ -1,0 +1,41 @@
+
+Lsquid:S1066¼"/Merge this if statement with the enclosing one.(œâÀ±ÿÿÿÿÿ
+gsquid:S1301U"KReplace this "switch" statement by "if" statements to increase readability.(Õ¦À‹ıÿÿÿÿ
+hsquid:S1301ƒ"KReplace this "switch" statement by "if" statements to increase readability.(äÿœ”úÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck+"WMake QRcodeWidth a static final constant or non-public and provide accessors if needed.(²‚±Šøÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡ø
+isquid:S00117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òº¢ñ
+osquid:S00117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀŒ‘Ëúÿÿÿÿ
+osquid:S00117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ş‘øÿÿÿÿ
+osquid:S00117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İĞ¢üÿÿÿÿ
+osquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àà­¿ûÿÿÿÿ
+jsquid:S00117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıïø’
+osquid:S00117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áöØ³øÿÿÿÿ
+jsquid:S00117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÉ¾
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÊ¯ùÿÿÿÿ
+@squid:S1148¡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>squid:S1659*"(Declare "iv_backbtn" on a separate line.(ÔÙ¶	
+@squid:S1659*"*Declare "iv_cancelbtn" on a separate line.(ÔÙ¶	
+lsquid:S00116%"TRename this field "et_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÛ„”
+ksquid:S00116&"SRename this field "et_notes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ş
+msquid:S00116("PRename this field "Value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÊÃÿÿÿÿÿ
+gsquid:S00116*"PRename this field "iv_qr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÙ¶	
+lsquid:S00116*"URename this field "iv_backbtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÙ¶	
+nsquid:S00116*"WRename this field "iv_cancelbtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÙ¶	
+ssquid:S00116+"VRename this field "QRcodeWidth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‚±Šøÿÿÿÿ
+isquid:S00116."QRename this field "Amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù‡Ç
+xsquid:S00116/"[Rename this field "sp_Select_Qrtype" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ƒ¹üÿÿÿÿ
+squid:S1186k"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ
+U"squid:SwitchLastCaseIsDefaultCheckU""Add a default case to this switch.(Õ¦À‹ıÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckƒ""Add a default case to this switch.(äÿœ”úÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ºÖ
+lsquid:S00100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀŒ‘Ëúÿÿÿÿ
+Lsquid:S2209É"5Change this instance-reference to a static reference.(Òó²S
+bsquid:HiddenFieldCheckÚ":Rename "bitmap" which hides the field declared at line 41.(¿µ£ûÿÿÿÿ
+@squid:S3398Ş"(Move this method into "onClickListener".(‰‡çÃ
+@squid:S3398¹"(Move this method into "onClickListener".(Ú˜°ı
+bsquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(ïÆ´Ğ
+gsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(´Ùùœşÿÿÿÿ
+csquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(¦åİø
+csquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(¥ßŸ’
+csquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(öÖÒé

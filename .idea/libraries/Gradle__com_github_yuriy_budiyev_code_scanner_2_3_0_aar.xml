@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.yuriy-budiyev:code-scanner:2.3.0@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Downloads/jdk-20.0.1.jdk/Contents/Home/caches/transforms-3/cd56ac384ad4e747f3a320411bbbd954/transformed/jetified-code-scanner-2.3.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/jdk-20.0.1.jdk/Contents/Home/caches/transforms-3/cd56ac384ad4e747f3a320411bbbd954/transformed/jetified-code-scanner-2.3.0/res" />
+      <root url="jar://$USER_HOME$/Downloads/jdk-20.0.1.jdk/Contents/Home/caches/transforms-3/cd56ac384ad4e747f3a320411bbbd954/transformed/jetified-code-scanner-2.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/jdk-20.0.1.jdk/Contents/Home/caches/transforms-3/cd56ac384ad4e747f3a320411bbbd954/transformed/jetified-code-scanner-2.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/jdk-20.0.1.jdk/Contents/Home/caches/modules-2/files-2.1/com.github.yuriy-budiyev/code-scanner/2.3.0/102d3d1f8c6d72de3e0e697087bee420e9540f9c/code-scanner-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
